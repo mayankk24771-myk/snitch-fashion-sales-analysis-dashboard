@@ -37,7 +37,8 @@ To analyze sales data and build an interactive dashboard that highlights key bus
 
 ## 📊 Dashboard Preview
 
-Image/Data clean.png
+Image
+/Data clean.png
 
 ---
 
