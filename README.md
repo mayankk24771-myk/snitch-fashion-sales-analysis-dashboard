@@ -55,8 +55,8 @@ This dashboard enables:
 - Better inventory planning  
 - Improved revenue strategy  
 
----
 
 ## 🔗 Author
 Mayank Kumar  
 Data Analyst
+🔗 LinkedIn: https://www.linkedin.com/in/mayank-kumar123/
