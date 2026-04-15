@@ -1,34 +1,63 @@
-Excel-based sales analysis and dashboard for Snitch fashion brand to identify trends and business insights
-
 # 👕 Snitch Fashion Sales Analysis & Dashboard (Excel)
 
-## 📌 Problem Statement
-Analyze sales data of Snitch fashion brand to identify key revenue drivers, customer trends, and product performance.
+## 📌 Business Problem
+Snitch, a fashion retail brand, needs to understand its sales performance, customer behavior, and product trends to optimize revenue and improve decision-making.
+
+---
+
+## 🎯 Objective
+To analyze sales data and build an interactive dashboard that highlights key business metrics and actionable insights.
+
+---
 
 ## 📊 Dataset
-- Sales data including: Orders, Revenue, Category, Region, Customer details
-- Format: Excel
+- Sales transactions data (Orders, Revenue, Category, Region)
+- Time-based sales trends
+- Customer purchase patterns
 
-## 🛠 Tools Used
+---
+
+## 🛠 Tools & Techniques
 - Microsoft Excel
-  - Pivot Tables
-  - Charts
   - Data Cleaning
+  - Pivot Tables
+  - Data Visualization
   - Dashboard Design
 
-## 🔍 Analysis Performed
-- Cleaned raw sales data
-- Created pivot tables for category-wise and region-wise analysis
-- Identified top-performing products and revenue trends
-- Designed an interactive Excel dashboard
+---
 
-## 📈 Key Insights
-- Top-selling categories contributed majority of revenue
-- Certain regions showed higher purchase frequency
-- Seasonal trends affected sales performance
-- High-value customers identified
+## 📈 Key Business Insights
 
-## 🚀 Business Impact
-- Helps management optimize inventory and product focus
-- Supports targeted marketing strategies
-- Enables data-driven decision making
+- Top 3 categories contributed ~60–70% of total revenue  
+- Certain regions consistently outperformed others in sales  
+- Seasonal trends showed peak sales during specific months  
+- High-value customers drove a significant portion of revenue  
+
+---
+
+## 📊 Dashboard Preview
+
+Image/Data clean.png
+
+---
+
+## 💡 Business Recommendations
+
+- Focus inventory on high-performing categories  
+- Target underperforming regions with marketing campaigns  
+- Leverage seasonal trends for promotions  
+- Retain high-value customers with loyalty strategies  
+
+---
+
+## 🚀 Project Impact
+This dashboard enables:
+- Faster decision-making  
+- Better inventory planning  
+- Improved revenue strategy  
+
+---
+
+## 🔗 Author
+Mayank Kumar  
+Aspiring Data Analyst
