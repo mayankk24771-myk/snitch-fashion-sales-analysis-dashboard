@@ -28,9 +28,6 @@ Analyze sales data of Snitch fashion brand to identify key revenue drivers, cust
 - Seasonal trends affected sales performance
 - High-value customers identified
 
-## 📊 Dashboard Preview
-![Dashboard](images/dashboard.png)
-
 ## 🚀 Business Impact
 - Helps management optimize inventory and product focus
 - Supports targeted marketing strategies
