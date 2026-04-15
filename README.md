@@ -61,4 +61,4 @@ This dashboard enables:
 
 ## 🔗 Author
 Mayank Kumar  
-Aspiring Data Analyst
+Data Analyst
